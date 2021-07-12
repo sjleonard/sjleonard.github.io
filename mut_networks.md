@@ -1,9 +1,9 @@
 [Home](index.md)
 
 # Table of Contents
-1. [Chapter 1](#paragraph1)
-    1. [Historical overview](#subparagraph1)
-    2. [A bit of natural history](#subparagraph2)
+1. [Chapter 1](# Chapter 1. Biodiversity and Plant-Animal Coevolution)
+    1. [Historical overview](## Historical overview)
+    2. [A bit of natural history](## A bit of natural history)
 
 
 
