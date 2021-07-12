@@ -1,3 +1,5 @@
+[Home](index.md)
+
 # Chapter 1. Biodiversity and Plant-Animal Coevolution
 
 ## Historical overview
