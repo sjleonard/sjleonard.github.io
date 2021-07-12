@@ -24,7 +24,6 @@
   - Recent recognition that generalism is widespread (Chittka et al., 1996)
 
 ## A bit of natural history 
-\\
 
 
 
