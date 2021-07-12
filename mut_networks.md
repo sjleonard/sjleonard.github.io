@@ -1,11 +1,21 @@
 # Chapter 1. Biodiversity and Plant-Animal Coevolution
 
+## Historical Overview
+
 - People have been studying plant-animal mutualisms since the mid 19th century
   - Darwin was interested in plant-animal interactions, even predicted secondary extinctions
 - de Bary (1879) coined the term *symbiosis*
 - But antagonistic interactions like predation and competition (emphasized by e.g., Clements and Tansley) were more central in ecology 
   - Also in Lotka-Volterra models, even though Gause and Witt (1935) proposed similar mutualistic models
-- aaa     
+- Reasons why mutualisms may not have been more widely studied:
+  - Difficult to find stable solutions to dynamic models of mutualism
+  - Lack of empirical tools and theory made synthesis difficult
+  - Stigmatized due to association with anarchism
+- Ehrlich and Raven's (1964) paper on coevolution reignited interest
+- Mutualisms are old and very functionally important
+  - Pollination is at least 200 million years old, common by 100 m.y.a.
+  - Pollination and seed dispersal are critical for the functioning of ecosystems
+    - But are threatened by  
 
 
 
