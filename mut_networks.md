@@ -4,7 +4,6 @@
 1. [Chapter 1](#paragraph1)
     1. [Historical overview](#subparagraph1)
     2. [A bit of natural history](#subparagraph2)
-2. aa
 
 
 
