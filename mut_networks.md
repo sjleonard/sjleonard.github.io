@@ -1,15 +1,15 @@
 [Home](index.md)
 
 # Table of Contents
-1. [Chapter 1](#paragraph2)
-    1. [Historical overview](#subparagraph1)
-    2. [A bit of natural history](#subparagraph2)
+1. [Chapter 1](#1)
+    1. [Historical overview](#1.1)
+    2. [A bit of natural history](#1.2)
 
 
 
-# Chapter 1. Biodiversity and Plant-Animal Coevolution
+# Chapter 1. Biodiversity and Plant-Animal Coevolution <a name="1"></a>
 
-## Historical overview
+## Historical overview <a name="1.1"></a>
 
 - People have been studying plant-animal mutualisms since the mid 19th century
   - Darwin was interested in plant-animal interactions, even predicted secondary extinctions
@@ -30,7 +30,7 @@
 - Study of mutualistic interactions has shifted from early focus on one-to-one interactions to greater incorporation of community context
   - Recent recognition that generalism is widespread (Chittka et al., 1996)
 
-## A bit of natural history 
+## A bit of natural history <a name="1.2"></a>
 
 
 
