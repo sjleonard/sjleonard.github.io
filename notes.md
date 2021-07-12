@@ -2,4 +2,4 @@
 
 # Notes
 
-[Mutualistic Networks](mut_networks.md) by Jordi Bascompte and Pedro Jordano
+[*Mutualistic Networks*](mut_networks.md) by Jordi Bascompte and Pedro Jordano
