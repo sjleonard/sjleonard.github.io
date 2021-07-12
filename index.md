@@ -4,4 +4,4 @@ I am an undergraduate and masters student at Stanford University studying ecolog
 
 [Research](research.md)
 
-On this website, I'll be posting notes.
+On this website, I'll largely be posting [notes](notes.md).
