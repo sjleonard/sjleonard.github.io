@@ -1,6 +1,6 @@
 # Chapter 1. Biodiversity and Plant-Animal Coevolution
 
-## Historical Overview
+## Historical overview
 
 - People have been studying plant-animal mutualisms since the mid 19th century
   - Darwin was interested in plant-animal interactions, even predicted secondary extinctions
@@ -15,7 +15,13 @@
 - Mutualisms are old and very functionally important
   - Pollination is at least 200 million years old, common by 100 m.y.a.
   - Pollination and seed dispersal are critical for the functioning of ecosystems
-    - But are threatened by  
+    - But are threatened by anthropogenic pressures like hunting and habitat loss
+    - Large seed dispersers are going extinct at an especially high rate
+    - In the geological record, insect extinction or decline is often followed by extinction of flowering plants
+- Study of mutualistic interactions has shifted from early focus on one-to-one interactions to greater incorporation of community context
+  - Recent recognition that generalism is widespread (Chittka et al., 1996)
+
+## A bit of natural history
 
 
 
