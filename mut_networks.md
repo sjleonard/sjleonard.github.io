@@ -21,9 +21,8 @@
 - Study of mutualistic interactions has shifted from early focus on one-to-one interactions to greater incorporation of community context
   - Recent recognition that generalism is widespread (Chittka et al., 1996)
 
-## A bit of natural history
-
-
+## A bit of natural history 
+\\
 
 
 
