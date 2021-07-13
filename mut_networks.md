@@ -69,8 +69,6 @@
 - The next step is to extend from multispecific systems to whole networks, which is what this book is about
     - To do this, we need network theory  
 
-</br>
-
 
 # Chapter 2. An Introduction to Complex Networks <a name="2"></a>
 
