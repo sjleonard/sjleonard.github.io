@@ -45,7 +45,7 @@
 - Seed dispersal is not a harvest mutualism because fitness of mother also increases as a result of mutualism
 - An efficient disperser (1) efficiently consumes seeds and (2) spreads seeds far from mother plant (where successful germination and establishment is more likely)
     - Especially with frugivory, though, there is usually seasonality, so frugivores need diversified diets
-        - Plant-frugivore mutalisms typicaly show low specificity (Jordano, 1987)
+        - Plant-frugivore mutalisms typicaly show low specificity (Jordano, 1987)  
 - Alternatively, pollination tends to benefit from high specificity of interactions
     - Pollen should be carried to conspecific flowers
     - Pollinators don't necessarily need as diverse diets
@@ -63,7 +63,8 @@
     (2) Outcomes of interactions vary across populations  
     (3) Interacting species do not necessarily have matching geographic ranges  
     - These premises produce predictions:  
-    (1) A 
+    (1) There is mosaic of selection across populations, leading to different evolutionary trajectories  
+    (2) There may only be coevolution occurring in some 
 
 
 
