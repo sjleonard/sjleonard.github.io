@@ -64,9 +64,12 @@
     (3) Interacting species do not necessarily have matching geographic ranges  
     - These premises produce predictions:  
     (1) There is mosaic of selection across populations, leading to different evolutionary trajectories  
-    (2) There may only be coevolution occurring in some 
+    (2) There may only be coevolution occurring in some populations (coevolutionary hotspots)  
+    (3) There will be remixing of traits due to gene flow, drift, and local extinctions  
+- The next step is to extend from multispecific systems to whole networks, which is what this book is about
+    - To do this, we need network theory  
 
-
+</br>
 
 
 # Chapter 2. An Introduction to Complex Networks <a name="2"></a>
