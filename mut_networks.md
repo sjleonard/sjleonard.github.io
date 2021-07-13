@@ -53,6 +53,16 @@
 
 ## Coevolution in multispecific mutualisms <a name="1.3"></a>
 
+- Coevolution involves joint evolutionary trajectoris of separate gene pools that do not mix
+- Coevolution is one of the results of plant-animal mutualisms
+- Most multipcific interactions are diversified, but it's hard to predict the effects of coevolution on a newtork of hundreds of interacting species - "diffuse coevolution"
+- However, a big advance has been John Thompson's idea of "geographic mosaics of coevolution"
+    - Most mutualisms have both spatial and temporal variability and seem context-dependent
+    (1) aaa
+
+
+
+
 # Chapter 2. An Introduction to Complex Networks <a name="2"></a>
 
 
