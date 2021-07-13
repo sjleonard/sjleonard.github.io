@@ -32,5 +32,20 @@
 
 ## A bit of natural history <a name="1.2"></a>
 
+- Mutualisms are among the mst common interactions in terrestrial communities (Janzen, 1985)
+- Major groups of mutualistic interactions (though focus of this book is first two):
+    - Pollination
+    - Seed dispersal among animals and plants
+        - Not a harvest mutualism because fitness of mother also increases as a result of mutualism
+        - Frugivory tends to include especially large fitness effects
+    - Protective mutualisms among ants and plants
+    - Harvest mutualisms
+    - Humans and other organisms (e.g., agriculture, husbandry)
+- Most mutualisms likely lie somewhere on gradient of effectiveness from antagonism towards legitimate mutualism
+
+
+
+
+
 
 
