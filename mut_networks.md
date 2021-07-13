@@ -4,6 +4,8 @@
 1. [Chapter 1](#1)
     1. [Historical overview](#1.1)
     2. [A bit of natural history](#1.2)
+    3. [Coevolution in multispecific mutualisms](#1.3)
+2. [Chapter 2](#2)
 
 
 
@@ -36,16 +38,22 @@
 - Major groups of mutualistic interactions (though focus of this book is first two):
     - Pollination
     - Seed dispersal among animals and plants
-        - Not a harvest mutualism because fitness of mother also increases as a result of mutualism
-        - Frugivory tends to include especially large fitness effects
     - Protective mutualisms among ants and plants
     - Harvest mutualisms
     - Humans and other organisms (e.g., agriculture, husbandry)
 - Most mutualisms likely lie somewhere on gradient of effectiveness from antagonism towards legitimate mutualism
+- Seed dispersal is not a harvest mutualism because fitness of mother also increases as a result of mutualism
+- An efficient disperser (1) efficiently consumes seeds and (2) spreads seeds far from mother plant (where successful germination and establishment is more likely)
+    - Especially with frugivory, though, there is usually seasonality, so frugivores need diversified diets
+        - Plant-frugivore mutalisms typicaly show low specificity (Jordano, 1987)
+- Alternatively, pollination tends to benefit from high specificity of interactions
+    - Pollen should be carried to conspecific flowers
+    - Pollinators don't necessarily need as diverse diets
+    - Flowers also tend to signal receptivity to pollination (e.g., by color and odor) more than plants with seeds
 
+## Coevolution in multispecific mutualisms <a name="1.3"></a>
 
-
-
+# Chapter 2. An Introduction to Complex Networks <a name="2"></a>
 
 
 
