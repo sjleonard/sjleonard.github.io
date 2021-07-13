@@ -58,11 +58,11 @@
 - Most multipcific interactions are diversified, but it's hard to predict the effects of coevolution on a newtork of hundreds of interacting species - "diffuse coevolution"
 - However, a big advance has been John Thompson's idea of "geographic mosaics of coevolution"
     - Most mutualisms have both spatial and temporal variability and seem context-dependent
-    - Thompson's idea has three main premises
-    (1) Interactions occur among species distributed in populations
-    (2) Outcomes of interactions vary across populations
-    (3) Interacting species do not necessarily have matching geographic ranges
-    - These premises produce predictions:
+    - Thompson's idea has three main premises  
+    (1) Interactions occur among species distributed in populations  
+    (2) Outcomes of interactions vary across populations  
+    (3) Interacting species do not necessarily have matching geographic ranges  
+    - These premises produce predictions:  
     (1) A 
 
 
