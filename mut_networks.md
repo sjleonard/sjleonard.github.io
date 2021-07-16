@@ -72,5 +72,10 @@
 
 # Chapter 2. An Introduction to Complex Networks <a name="2"></a>
 
+## A network approach to complex systems <a name="2.1"></a>
+
+- A network (or graph) is a set of vertices (or nodes) connected by edges (or links), i.e., a pair $G = (V, E)$ 
+    - A graph is a mathematical object, but can be used in science to represent relationships between objects
+        - e.g., genes linked by gene regulation, proteins interacting to create structure, species in a food web, etc.  
 
 
