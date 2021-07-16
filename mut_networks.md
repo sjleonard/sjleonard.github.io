@@ -78,5 +78,9 @@
 - A network (or graph) is a set of vertices (or nodes) connected by edges (or links), i.e., a pair $$(G,V)$$
     - A graph is a mathematical object, but can be used in science to represent relationships between objects
         - e.g., genes linked by gene regulation, proteins interacting to create structure, species in a food web, etc.  
-
+- Erdos and Renyi began studying random graphs
+    - An Erdos-Renyi graph describes a collection of vertices in which each two vertices have probability $p$ of being connected
+    - The size of the largest average cluster in an Erdos-Renyi graph increases nonlinearly in $p$
+    - The number of edges per vertex in such a graph follows a Poisson distribution 
+        - Reminder: the probability mass function of a Poisson distribution is: $\text{Poisson}(\lambda) = \frac{\lambda^k e^{- \lambda}}{k!}$     
 
