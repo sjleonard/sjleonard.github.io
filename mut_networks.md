@@ -1,9 +1,3 @@
----
-output:  
-  rmarkdown::github_document:
-    keep_md: true
----
-
 [Home](index.md)
 
 # Table of Contents
