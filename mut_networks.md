@@ -7,6 +7,8 @@
     2. [A bit of natural history](#1.2)
     3. [Coevolution in multispecific mutualisms](#1.3)
 2. [Chapter 2](#2)
+    1. [A network approach to complex systems](#2.1)
+    2. [Measures of network structure](#2.2)
 
 
 
@@ -79,8 +81,24 @@
     - A graph is a mathematical object, but can be used in science to represent relationships between objects
         - e.g., genes linked by gene regulation, proteins interacting to create structure, species in a food web, etc.  
 - Erdos and Renyi began studying random graphs
-    - An Erdos-Renyi graph describes a collection of vertices in which each two vertices have probability $p$ of being connected
-    - The size of the largest average cluster in an Erdos-Renyi graph increases nonlinearly in $p$
+    - An Erdos-Renyi graph describes a collection of vertices in which each two vertices have probability $$p$$ of being connected
+    - The size of the largest average cluster in an Erdos-Renyi graph increases nonlinearly in $$p$$, with a critical point $$p_c$$
+    - Random graphs can be useful as null models and rarely represent reality well
     - The number of edges per vertex in such a graph follows a Poisson distribution 
-        - Reminder: the probability mass function of a Poisson distribution is: $$\text{Poisson}(\lambda) = \frac{\lambda^k e^{- \lambda}}{k!}$$     
+        - Reminder: the probability mass function of a Poisson distribution is: $$\text{Poisson}(\lambda) = \frac{\lambda^k e^{- \lambda}}{k!}$$
+
+### One-mode and two-mode networks
+
+- In one-mode networks (e.g., food webs), there is only one type of vertex (e.g., servers), and any two vertices can be connected
+- In two-mode networks (e.g., mutualistic networks), a.k.a. bipartite graphs, there are two types of vertices, and edges can only exist between different types of vertices
+    - A bipartite graph can be represented as an adjacency matrix $$X$$, where $$X_{i, j} = 1$$ if vertex $$i$$ of class $$A$$ and vertex $$j$$ of class $$B$$ are connected, and $$X_{i, j} = 0$$ otherwise
+    - The unipartite graph has a similar representation but without classes like $$A$$ and $$B$$
+    - Graphs can also be weighted, where $$X_{i, j}$$ can take on values beyond $$0$$ and $$1$$
+
+## Measures of network structure <a name="2.2"></a>
+
+
+
+
+    
 
