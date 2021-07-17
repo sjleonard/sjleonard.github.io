@@ -140,9 +140,10 @@
 - Modularity is an important component in understanding the functioning of complex networks, including ecological networks
 - Quantifying modularity (roughly equivalent to community detection) is not necessarily straightforward, but there are algorithms to do it (e.g., simulated annealing)
 - For bipartite networks, the modularity function is \begin{equation}
-M = \sum_{i = 1}^n \left( (\frac{e_i}{L} - \frac{d_i^P}{L} \frac{d_i^A}{L} \right),
+M = \sum_{i = 1}^n \left( \frac{e_i}{L} - \frac{d_i^P}{L} \frac{d_i^A}{L} \right),
 \end{equation}
-with 
+with $$n$$ the number of modules, $$e_i$$ the number of observed interactions within module $$i$$, $$L$$ the total number of interactions in the network, and $$d_i^P$$ and $$d_i^A$$ the sums of the degrees of nodes in module $$i$$ for the plant ($$P$$) and animal ($$A$$) sets
+
 
 
 
