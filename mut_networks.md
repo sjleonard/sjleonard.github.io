@@ -107,7 +107,7 @@
         - Random graphs show exponential decay on this scale
 - Approximate *scale-free* distributions are relatively common in real-world networks
     - In such network, most vertices have few links but a few vertices have a lot of links
-    - Scale-free networks are described by a power-law distribution, $$P(k) \propto k^{- \gamma}$$, which gives the probability of a vertx having $k$ edges, with $\gamma$ a critical exponent
+    - Scale-free networks are described by a power-law distribution, $$P(k) \propto k^{- \gamma}$$, which gives the probability of a vertex having $$k$$ edges, with $$\gamma$$ a critical exponent
     - Linear on a log-log scale (with slope $$- \gamma$$)
     - High-degree vertices in real-world networks are important for understanding robustness
          - Networks are robust to disturbance of most (low-degree) nodes but susceptible to disturbance of high-degree nodes
@@ -120,5 +120,19 @@
 
 **Strength distribution**
 
-    
+- We can move beyond binary networks and quantify the strength of interactions (or something else, like flows) via edge weights
+- The *strength* of a vertex is the sum of its edge weights 
+- As with a degree distribution, we can plot the strength distribution
+
+**Small-world networks**
+
+- 
+
+
+
+
+
+
+
+
 
