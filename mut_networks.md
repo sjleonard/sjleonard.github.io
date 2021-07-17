@@ -126,10 +126,23 @@
 
 **Small-world networks**
 
-- 
+- Stanley Milgram showed in 1967 that the average distance between two individuals is only around six degrees, ranging from two to ten
+- Many real-world networks are scale-free and/or small-world networks
+- Watts and Strogatz (1998) formalized the idea of small-world networks:
+    - High clustering coefficient
+    - Short path length 
+- Some studies have shown small-world networks in ecology, e.g. in food webs (Montoya and Sole, 2002) and pollination networks (Olesen, Bascompte, et al., 2006), but the generality of this has also been disputed
+    - Dunne et al. (2002) argue that most ecological networks are not highly clustered, though they do often have short path lengths   
 
+**Modularity**
 
-
+- In modular networks, there exist highly-connected modules of vertices (aka communities, compartments, or cliques, though cliques also technicallyr refer to *completely* connected groups of vertices), but vertices from different modules are only weakly connected
+- Modularity is an important component in understanding the functioning of complex networks, including ecological networks
+- Quantifying modularity (roughly equivalent to community detection) is not necessarily straightforward, but there are algorithms to do it (e.g., simulated annealing)
+- For bipartite networks, the modularity function is \begin{equation}
+M = \sum_{i = 1}^n \left( (\frac{e_i}{L} - \frac{d_i^P}{L} \frac{d_i^A}{L} \right),
+\end{equation}
+with 
 
 
 
