@@ -87,7 +87,7 @@
     - The number of edges per vertex in such a graph follows a Poisson distribution 
         - Reminder: the probability mass function of a Poisson distribution is: $$\text{Poisson}(\lambda) = \frac{\lambda^k e^{- \lambda}}{k!}$$
 
-### One-mode and two-mode networks
+**One-mode and two-mode networks**
 
 - In one-mode networks (e.g., food webs), there is only one type of vertex (e.g., servers), and any two vertices can be connected
 - In two-mode networks (e.g., mutualistic networks), a.k.a. bipartite graphs, there are two types of vertices, and edges can only exist between different types of vertices
@@ -105,11 +105,20 @@
     - Random graphs often have relatively homogeneous degree distributions
     - Often plotted on a log-log scale
         - Random graphs show exponential decay on this scale
-        - On such a scale, "scale-free/power-law" networks, in which most vertices have few links but a few vertices have a lot of links, are linear
-        - Scale-free networks are described by power-law distribution: $$P(k) \propto k^{- \gamma}$$
-        - Approximate scale-free distributions are relatively common in real-world networks
-        - High-degree vertices in real-world networks are important for understanding robustness
+- Approximate *scale-free* distributions are relatively common in real-world networks
+    - In such network, most vertices have few links but a few vertices have a lot of links
+    - Scale-free networks are described by a power-law distribution, $$P(k) \propto k^{- \gamma}$$, which gives the probability of a vertx having $k$ edges, with $\gamma$ a critical exponent
+    - Linear on a log-log scale (with slope $$- \gamma$$)
+    - High-degree vertices in real-world networks are important for understanding robustness
+         - Networks are robust to disturbance of most (low-degree) nodes but susceptible to disturbance of high-degree nodes
+         - Robust to random disturbances, but potentially susceptible to targeted ones
 
+- In addition to scale-free networks, truncated scale-free networks and single-scale networks are also common
+- There are a couple common type of scale-free ecological patterns
+    1. Bivariate relationships between e.g., species-area, body-size allometries
+    2. In which frequency is related to magnitude (e.g., number of interactions per species)
+
+**Strength distribution**
 
     
 
