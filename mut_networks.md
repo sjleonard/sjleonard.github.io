@@ -164,12 +164,11 @@ with $$n$$ the number of modules, $$e_i$$ the number of observed interactions wi
     1. Begin with a regular lattice, where each vertex is connected to two nearest neighbors
     2. Rewire two distant nodes with probability $$p$$
         - As $$p$$ increases, the model becomes closer to an Erdos-Renyi graph
-- Barabasi and Albert (1999) sought to model formation of scale-free networks via *preferential attachment*
+- Barabasi and Albert (1999) sought to model formation of scale-free networks via *preferential attachment*; their "rich-get-richer" process produces many vertices with few connection and a few vertices with many connections, as in scale-free networks
     1. Begin with an Erdos-Renyi graph
     2. Add a new vertex
     3. The probability that the new vertex is connected to an existing vertex is proportional to the degree of the existing vertex
-    4. Repeat
-    - This can work 
+    4. Repeat 
   
 
 
