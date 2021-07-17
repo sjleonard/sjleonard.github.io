@@ -9,7 +9,7 @@
 2. [Chapter 2](#2)
     1. [A network approach to complex systems](#2.1)
     2. [Measures of network structure](#2.2)
-
+    3. [Models of network buildup](#2.3)
 
 
 # Chapter 1. Biodiversity and Plant-Animal Coevolution <a name="1"></a>
@@ -144,9 +144,33 @@ M = \sum_{i = 1}^n \left( \frac{e_i}{L} - \frac{d_i^P}{L} \frac{d_i^A}{L} \right
 \end{equation}
 with $$n$$ the number of modules, $$e_i$$ the number of observed interactions within module $$i$$, $$L$$ the total number of interactions in the network, and $$d_i^P$$ and $$d_i^A$$ the sums of the degrees of nodes in module $$i$$ for the plant ($$P$$) and animal ($$A$$) sets
 
+- In food webs, phylogeny, body size, and habitat preference seem to be significantly correlated to a species' ascription to a module, but modularity has not been studied much overall
+- Modularity techniques have begun to be applied to mutualistic networks (Olesen, Bascompte, et al., 2007)
 
+**Motifs and subgraphs**
 
+- Motifs are repeated subgraphs, overrepresented in complex networks compared to random graphs
+- The idea sort of originated in social network analysis as *triads*, particular three-node subgraphs
+- Introduced to ecology by Bascompte and Melian (2005) to study important subgraphs in food webs
+    - Competition and intraguild predation are overrepresented, but frequency of omnivory varies 
+- The functional consequences of certain motifs was not studied until recently
+    - Stouffer and Bascompte (2010) showed that the most common modules in food webs are those that confer the most robustness/persistence
+    - The processes that give rise to overrepresentation of certain motifs is still unclear
 
+## Models of network buildup <a name="2.3"></a>
+
+- The first model of network formation is the random graph formation of Erdos and Renyi
+- A second major model of network formation was that of Watts and Strogatz (1998), who modeled small-world networks
+    1. Begin with a regular lattice, where each vertex is connected to two nearest neighbors
+    2. Rewire two distant nodes with probability $$p$$
+        - As $$p$$ increases, the model becomes closer to an Erdos-Renyi graph
+- Barabasi and Albert (1999) sought to model formation of scale-free networks via *preferential attachment*
+    1. Begin with an Erdos-Renyi graph
+    2. Add a new vertex
+    3. The probability that the new vertex is connected to an existing vertex is proportional to the degree of the existing vertex
+    4. Repeat
+    - This can work 
+  
 
 
 
