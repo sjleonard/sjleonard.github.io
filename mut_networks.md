@@ -97,7 +97,18 @@
 
 ## Measures of network structure <a name="2.2"></a>
 
+**Connectivity distribution**
 
+- The *degree* of a vertex is the number of edges connected to that vertex
+- The *degree distribution* describes the distribution of degrees of vertices in a graph
+    - It is a probability mass function; common to also represent the degree distribution with a cdf (cumulative distribution function) 
+    - Random graphs often have relatively homogeneous degree distributions
+    - Often plotted on a log-log scale
+        - Random graphs show exponential decay on this scale
+        - On such a scale, "scale-free/power-law" networks, in which most vertices have few links but a few vertices have a lot of links, are linear
+        - Scale-free networks are described by power-law distribution: $$P(k) \propto k^{- \gamma}$$
+        - Approximate scale-free distributions are relatively common in real-world networks
+        - High-degree vertices in real-world networks are important for understanding robustness
 
 
     
