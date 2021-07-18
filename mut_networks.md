@@ -10,6 +10,7 @@
     1. [A network approach to complex systems](#2.1)
     2. [Measures of network structure](#2.2)
     3. [Models of network buildup](#2.3)
+    4. [Ecological networks](#2.4)
 
 
 # Chapter 1. Biodiversity and Plant-Animal Coevolution <a name="1"></a>
@@ -147,7 +148,7 @@ with $$n$$ the number of modules, $$e_i$$ the number of observed interactions wi
 - In food webs, phylogeny, body size, and habitat preference seem to be significantly correlated to a species' ascription to a module, but modularity has not been studied much overall
 - Modularity techniques have begun to be applied to mutualistic networks (Olesen, Bascompte, et al., 2007)
 
-**Motifs and subgraphs**
+***Motifs and subgraphs***
 
 - Motifs are repeated subgraphs, overrepresented in complex networks compared to random graphs
 - The idea sort of originated in social network analysis as *triads*, particular three-node subgraphs
@@ -169,7 +170,7 @@ with $$n$$ the number of modules, $$e_i$$ the number of observed interactions wi
     2. Add a new vertex
     3. The probability that the new vertex is connected to an existing vertex is proportional to the degree of the existing vertex
     4. Repeat 
-  
 
+## Ecological networks <a name="2.4"></a>
 
 
