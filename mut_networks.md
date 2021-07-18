@@ -148,7 +148,7 @@ with $$n$$ the number of modules, $$e_i$$ the number of observed interactions wi
 - In food webs, phylogeny, body size, and habitat preference seem to be significantly correlated to a species' ascription to a module, but modularity has not been studied much overall
 - Modularity techniques have begun to be applied to mutualistic networks (Olesen, Bascompte, et al., 2007)
 
-***Motifs and subgraphs***
+**Motifs and subgraphs**
 
 - Motifs are repeated subgraphs, overrepresented in complex networks compared to random graphs
 - The idea sort of originated in social network analysis as *triads*, particular three-node subgraphs
