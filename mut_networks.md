@@ -57,9 +57,9 @@
 
 ## Coevolution in multispecific mutualisms <a name="1.3"></a>
 
-- Coevolution involves joint evolutionary trajectoris of separate gene pools that do not mix
+- Coevolution involves joint evolutionary trajectories of separate gene pools that do not mix
 - Coevolution is one of the results of plant-animal mutualisms
-- Most multipcific interactions are diversified, but it's hard to predict the effects of coevolution on a newtork of hundreds of interacting species - "diffuse coevolution"
+- Most multispecific interactions are diversified, but it's hard to predict the effects of coevolution on a network of hundreds of interacting species - "diffuse coevolution"
 - However, a big advance has been John Thompson's idea of "geographic mosaics of coevolution"
     - Most mutualisms have both spatial and temporal variability and seem context-dependent
     - Thompson's idea has three main premises  
@@ -172,5 +172,39 @@ with $$n$$ the number of modules, $$e_i$$ the number of observed interactions wi
     4. Repeat 
 
 ## Ecological networks <a name="2.4"></a>
+
+- Networks have been used in ecology as far back as the 1950s; here we review some other uses
+    - Two main types: spatial networks (with vertices representing habitat patches) and species-level interaction networks (e.g., food webs, epidemiological networks)
+
+**Spatial networks**
+
+- Especially due to anthropgenically driven habitat fragmentation, metapopulation theory is currently a very important topic of research in ecology
+    - Originated with Levins (1969), who studied a (theoretical) system of infinite equal patches and dynamical balance between extinction and recolonization
+    - Research eventually moved to spatially explicit models, with Urban and Keitt (2001) using graph theory to think about spatial metapopulations
+        - Spurred similar research on riverine newtorks, patches of ponds with amphibians, gene flow, etc.
+
+**Food webs**
+
+- Food webs have been around sinc at least Camerano (1880) and Pierce et al. (1912), who were both interested in how different food web interactions can be positive or negative for humans
+- Modern food web analysis probably began with Lindeman (1942) and Odum (1956)
+- Earlier food web models (from a few decades ago and later), were focused on global descriptors like connctance, compartments, fraction of top predators, and invariance
+- Paine (1969, 1992) helped show the importance of top predators (as keystone species) and described the role of interaction strength
+- Robert May studied stability and complexity in model ecosystems using food webs (1972), inspiring a lot of further research
+    - He showed that in random food webs, greater diversity promotes lower stability
+    - May's finding ran counter to many (field) ecologists' intuitions; real food webs must be non-randomly assembled in such a way as to (probably) promote stability
+    - May suggested modularity might promote stability, but Pimm (1979) argued that compartments would make food webs less stable
+- Another area of theoretical research works on models of network buildup for food webs, based on simple ideas
+    - e.g., larger animals eat smaller ones
+    - Can incorporate niche information (Williams and Martinez, 2000), phylogenetic info (Cattin, Bersier, et al., 2004)
+      
+**Host-parasitoid networks**
+
+- Parasitoids are predatory arthropods that lay eggs inside, on top, or near hosts, with the host later used as food by larvae; very common in nature
+- Relatively simple interaction, amenable to modeling and theory
+- Though these are technically food-web interactions, they are also often represented as two-mode networks
+- Host-parasitoid interactions are antagonistic, thus host-parasitoid networks are expected to look different than mutualistic networks
+    - Mutualistic networks may facilitate incorporation of new species; antogonistic networks may favor escalating arms races and compartmentalization  
+
+**Epidemiological networks**
 
 
