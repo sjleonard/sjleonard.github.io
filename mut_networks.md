@@ -207,4 +207,19 @@ with $$n$$ the number of modules, $$e_i$$ the number of observed interactions wi
 
 **Epidemiological networks**
 
+- Early on, assumed well-mixed populations, allowing mean-field approximations, analytical tractability (e.g., SIR model), and some nice results
+    - e.g., critical vaccination threshold
+        - Same mechanism underlying extinction threholds in models of metapopulation persistence in fragmented landscapes  
+- More complex models incorporate spatial and social heterogeneity
+    - Heterogeneity increases basic reproductive number ($$\mathcal{R}_0$$)  
+    - In scale-free networks (e.g., sexual networks), infections persist for a very long time 
 
+**Social and individual networks**
+
+- Another important social network topic studies evolution of cooperation
+    - Structure matters a lot for evolutionary games 
+    -   Some networks amplify selection, some reduce selection
+    -   With the Prisoner's Dilemma, heterogeneous networks induce cooperation
+- Recent models address disease spread with different social structures
+- Assortative mating (and other interactions) is another topic of study
+    - e.g., Fortuna, Garcia, et al. (2008) show spatial assortative mating among pollinators
