@@ -1,6 +1,6 @@
 # Mechanisms of maintenance of species diversity
 
-- What is diversity maintenance? "coexistenc in the same spatial region of species having similar ecology," including overlapping resource requirments
+- What is diversity maintenance? "coexistence in the same spatial region of species having similar ecology," including overlapping resource requirments
   - Alternatively, to general maintenance of species richness and evenness, but not the focus here 
   - The area under study should be large enough such that pop. dynamics are not greatly affected by migration  
 
@@ -18,4 +18,6 @@
 - Lotka-Volterra models and extensions can be thought of as models of direct competition or as descriptions of dynamics arising from resource dynamics
 - An example of explicit resource competition is Tilman's theory (the $$R^{*}$$ rule):
   - For species jointly limited by a resource, the winner of compeitition has the lowest $$R^{*}$$, which is the lowest level of a resource required for the species' persistence
+  - $$R^{*}$$ is influenced by many factors (basically, overall fitness)
+ - Now consider a simple resource limitation model: \begin{equation}  \end{equation}
  
