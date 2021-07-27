@@ -12,4 +12,4 @@ Here are notes from some relevant books and papers I wanted to read particularly
 
 ## Papers
 
-
+[*Mechanisms of maintenance of species diversity*](chesson_2000.md) by Peter Chesson
