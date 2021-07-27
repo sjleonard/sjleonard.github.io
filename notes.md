@@ -2,6 +2,8 @@
 
 # Notes
 
+Here are notes from some relevant books and papers I wanted to read particularly closely. 
+
 ## Books
 
 [*Mutualistic Networks*](mut_networks.md) by Jordi Bascompte and Pedro Jordano
