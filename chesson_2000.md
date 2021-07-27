@@ -12,7 +12,7 @@
   - Species must have positive long-term low-density growth rates, $$\bar{r}_i$$ 
   - What is necssary for $$\bar{r}_i > 0$$?
     - Species must be distinguished in ecologically significant ways -- but what is ecologically significant? 
-- Consider Lotka-Volterra compeition: \begin{align}  
-\frac{1}{N_i} \cdot \frac{d N_i}{dt} = r_i (1 - \alpha_{ii} N_i - \alpha_{i j} N_j), \ \ \ i = 1, 2, \ j \neq i.
-\end{align}
-  - Here, we see that  
+- Consider Lotka-Volterra compeition: \begin{equation} \frac{1}{N_i} \cdot \frac{d N_i}{dt} = r_i (1 - \alpha_{ii} N_i - \alpha_{i j} N_j), \ \ \ i = 1, 2, \ j \neq i. \end{equation} with $$\alpha_{ii}$$ the intraspecific competition coefficient and $$\alpha_{ij}$$ the interspecific competition coefficient
+  - If $$\alpha_{jj} > \alpha_{ij}$$, then $$i$$ can persist in the presence of $$j$$, i.e., $j$ cannot exlude $i$ if the effect $$j$$ has on itself is greater than the effect $$j$$ has on $$i$$
+
+ 
