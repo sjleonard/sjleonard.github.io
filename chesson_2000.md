@@ -15,3 +15,4 @@
 - Consider Lotka-Volterra compeition: \begin{align}  
 \frac{1}{N_i} \cdot \frac{d N_i}{dt} = r_i (1 - \alpha_{ii} N_i - \alpha_{i j} N_j), \ \ \ i = 1, 2, \ j \neq i.
 \end{align}
+  - Here, we see that  
