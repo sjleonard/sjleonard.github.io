@@ -68,9 +68,9 @@
 ### The storage effect
 - Environmental fluctuation may reduce population density and reduce competition, but this does not imply coexistence
 - Stable coexistence rsults from environmental fluctuation due to temporal niches: species use resources at different times
-- The storage effect is the outcome of temporal niches resulting in greater intraspecific than interspecific competition, and has three important ingredients
-  (1) Differential responses to the (varying) environment
-  (2) Covariance between environment and competition -- i.e., covariance between effects of environment on per capita growth rat of a population (environmental response) and of competition on the growth rate (competitive response) -- so that when a species is favored by the environment, it experiences intraspecific competition, and vice versa
+- The storage effect is the outcome of temporal niches resulting in greater intraspecific than interspecific competition, and has three important ingredients  
+  (1) Differential responses to the (varying) environment  
+  (2) Covariance between environment and competition -- i.e., covariance between effects of environment on per capita growth rat of a population (environmental response) and of competition on the growth rate (competitive response) -- so that when a species is favored by the environment, it experiences intraspecific competition, and vice versa  
   (3) Buffered population growth, which limits the impact of competition when a species is not favored by the environment, e.g., dormancy at unfavorable times of the year
   
 
