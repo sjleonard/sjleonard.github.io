@@ -27,5 +27,5 @@
   - The second term is a stabilizing term
   - **Species coexist if the stabilizing term is greater than the fitness difference**
   - The stabilizing term arises from a tradeoff in resource use 
-- We can extend to multispecies communities with diffuse competition via the following rough model: \begin{equation} \bar{r}_i \approx b_i (k_i - \bar{k}) + \frac{b_i (1 - \rho) D}{n - 1} \end{equation} with $$n$$ the total number of species, $$k$$s as fitnesses, $$\bar{k}$$ as th average fitness of $$i$$'s competitors, $$rho$$ as niche overlap, and $$D$$ a positive constant
+- We can extend to multispecies communities with diffuse competition via the following rough model: \begin{equation} \bar{r}_i \approx b_i (k_i - \bar{k}) + \frac{b_i (1 - \rho) D}{n - 1} \end{equation} with $$n$$ the total number of species, $$k$$s as fitnesses, $$\bar{k}$$ as th average fitness of $$i$$'s competitors, $$\rho$$ as niche overlap, and $$D$$ a positive constant
   - If the stabilizing (second) term is greater in magnitude than the relative average fitness for the worst species, all species coexist 
