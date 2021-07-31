@@ -28,4 +28,24 @@
   - **Species coexist if the stabilizing term is greater than the fitness difference**
   - The stabilizing term arises from a tradeoff in resource use 
 - We can extend to multispecies communities with diffuse competition via the following rough model: \begin{equation} \bar{r}_i \approx b_i (k_i - \bar{k}) + \frac{b_i (1 - \rho) D}{n - 1} \end{equation} with $$n$$ the total number of species, $$k$$s as fitnesses, $$\bar{k}$$ as th average fitness of $$i$$'s competitors, $$\rho$$ as niche overlap, and $$D$$ a positive constant
-  - If the stabilizing (second) term is greater in magnitude than the relative average fitness for the worst species, all species coexist 
+  - If the stabilizing (second) term is greater in magnitude than the relative average fitness for the worst species, all species coexist  
+- Two types of mechanisms can increase coexistence
+  - Decrease the fitness difference (first term), i.e., **equalizing mechanisms** 
+  - Increase the stabilzing term, i.e., **stabilizing mechanisms** 
+- How do stabilizing mechanisms arise?
+  - First, consider four "dimensions" of niche space: recourses, predators, time, and space 
+  - A niche is defined by the effect and response a species has at each point in niche space
+  - An example of a stabilizing mechanism is density dependence
+    - Species $$a$$ depends on a resource (has a strong response at a point in niche space) and reduces the resource (has a strong effect)  
+    - Species $$b$$ has a similar relationship to a resource as species $$a$$, but with a different resource
+    - Even if there is a bit of resource overlap, intraspecific competition will be stronger than interspecific competition, resulting in stable coexistence
+    - However, under certain assumptions -- for example, if one resource is much richer than another, introducing a non-zero fitness difference -- stable coexistence is not guaranteed
+    - Another assumption is that resources have independent dynamic
+
+## Fluctation-dependent and fluctuation-independent mechanisms
+
+
+
+
+
+
