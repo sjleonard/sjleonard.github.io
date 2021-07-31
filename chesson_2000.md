@@ -43,9 +43,26 @@
     - Another assumption is that resources have independent dynamic
 
 ## Fluctation-dependent and fluctuation-independent mechanisms
+- Stable coexistence mechanisms can be fluctuation independent
+  - e.g., resource partitioning, frequency-dependent predation
+  - Often modelled by deterministic equations with stable equilibrium points
+  - The mechanisms largely operates independently of fluctuations in the system
+- Some coexistence mechanisms depend on fluctuations, i.e., are **fluctuation dependent**
+  - We can divide these mechanisms into two classes: *relative nonlinearity of competition* and *the storage effect* 
 
+### Relative nonlinearity of competition
+- Per capita growth rate is often a nonlinear function of limiting factors
+- For a single limiting factor, the per capita growth rate can be expressed as \begin{equation} r_i(t) = E_i(t) - \phi_i(F) \end{equation} with $$E_i(t)$$ the maximum per capita growth rate as a function of environmental conditions (which may fluctuate), $$F$$ as the limiting factor, and $$\phi_i(F)$$ as the response defining dependence of per capita growth rate on $$F$$
+  - We can express the degree of nonlinearity with some quantity $$\tau$$
+  - If two species have different values of $$\tau$$, for coexistence to occur, the species with a larger value must:
+    - Have a mean fitness advantage in the absence of fluctuations
+    - Experience lower fluctuations when it is an invader than a resident 
+- Consider the following approximation to $$\bar{r}_i$$ for a species $$i$$ in the presence of a competitor $$s$$: \begin{equation} \bar{r}_i = b_i(k_i - k_s) - b_i(\tau_i - \tau_s) V(F^{-i}) \end{equation} whre the first term is the fitness difference term in the absence of fluctuations, $$\tau_i - \tau_s$$ is the difference in nonlinearities, and $$V(F^{-i}$$ is the variance of the limiting factor of invader $$i$$ and resident $$s$$
+  - The second term changes sign when invader and resident are switched
+  - The species with a more positive nonlinearity is disadvantaged by fluctuations
+  - Let $$B$$ be the average of $$V(F^{-i})$$ for each species as invader and let $$A = \frac{1}{2}|V(F^{-i})_1 - V(F^{-i})_2$$|; then if the species with smaller nonlinearity ($$\tau$$) experiences larger $$V(F)$$ as an invader, we have \begin{equation} \bar{r}_i \approx [b_i(k_i - k_s) - b_i(\tau_i - \tau_s) B] + b_i |\tau_i - \tau_s| A \end{equation}.
+    - The first term is the equalizing term, and the second is the stabilizing term
+    - Nonlinearity can thus be both stabilizing and equalizing
+      - But the "stabilizing" term might actually be destabilizing because the term can be negative  
 
-
-
-
-
+### The storage effect
