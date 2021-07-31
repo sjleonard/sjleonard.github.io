@@ -57,10 +57,10 @@
   - If two species have different values of $$\tau$$, for coexistence to occur, the species with a larger value must:
     - Have a mean fitness advantage in the absence of fluctuations
     - Experience lower fluctuations when it is an invader than a resident 
-- Consider the following approximation to $$\bar{r}_i$$ for a species $$i$$ in the presence of a competitor $$s$$: \begin{equation} \bar{r}_i = b_i(k_i - k_s) - b_i(\tau_i - \tau_s) V(F^{-i}) \end{equation} whre the first term is the fitness difference term in the absence of fluctuations, $$\tau_i - \tau_s$$ is the difference in nonlinearities, and $$V(F^{-i}$$ is the variance of the limiting factor of invader $$i$$ and resident $$s$$
+- Consider the following approximation to $$\bar{r}_i$$ for a species $$i$$ in the presence of a competitor $$s$$: \begin{equation} \bar{r}_i = b_i(k_i - k_s) - b_i(\tau_i - \tau_s) V(F^{-i}) \end{equation} whre the first term is the fitness difference term in the absence of fluctuations, $$\tau_i - \tau_s$$ is the difference in nonlinearities, and $$V(F^{-i})$$ is the variance of the limiting factor of invader $$i$$ and resident $$s$$
   - The second term changes sign when invader and resident are switched
   - The species with a more positive nonlinearity is disadvantaged by fluctuations
-  - Let $$B$$ be the average of $$V(F^{-i})$$ for each species as invader and let $$A = \frac{1}{2}|V(F^{-i})_1 - V(F^{-i})_2$$|; then if the species with smaller nonlinearity ($$\tau$$) experiences larger $$V(F)$$ as an invader, we have \begin{equation} \bar{r}_i \approx (b_i(k_i - k_s) - b_i(\tau_i - \tau_s) B) + b_i |\tau_i - \tau_s| A \end{equation}.
+  - Let $$B$$ be the average of $$V(F^{-i})$$ for each species as invader and let $$A = \frac{1}{2} \mid V(F^{-i})_1 - V(F^{-i})_2 \mid$$; then if the species with smaller nonlinearity ($$\tau$$) experiences larger $$V(F)$$ as an invader, we have \begin{equation} \bar{r}_i \approx (b_i(k_i - k_s) - b_i(\tau_i - \tau_s) B) + b_i \mid \tau_i - \tau_s \mid A \end{equation}.
     - The first term is the equalizing term, and the second is the stabilizing term
     - Nonlinearity can thus be both stabilizing and equalizing
       - But the "stabilizing" term might actually be destabilizing because the term can be negative  
