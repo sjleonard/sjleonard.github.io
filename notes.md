@@ -12,5 +12,6 @@ Here are notes from some relevant books and papers I wanted to read particularly
 
 ## Papers
 
-["Mechanisms of maintenance of species diversity"](chesson_2000.md) by Peter Chesson
+["Mechanisms of maintenance of species diversity"](chesson_2000.md) by Peter Chesson  
+
 ["Chesson's coexistence theory"](barabas_etal_2018.md) by György Barabás, Rafael D'Andrea, and Simon Maccracken Stump
