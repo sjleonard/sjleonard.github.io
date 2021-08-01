@@ -77,12 +77,23 @@
 
 ### Mechanisms in combination integrated over temporal scales
 - Competition and the physical environent drivethe aforementioned mechanisms affecting coexistence
-- The long-term low-density growth rate can also be expressed as: \begin{equation} \bar{r}_i \approx \bar{r}^{'}_i - \Delta N + \Delta I \end{equation}, with $$\Delta N$$ the relative nonnlinearity of competition and $$\Delta I$$ the storage effect
+- The long-term low-density growth rate can also be expressed as: \begin{equation} \bar{r}_i \approx \bar{r}^{'}_i - \Delta N + \Delta I, \end{equation} with $$\Delta N$$ the relative nonnlinearity of competition and $$\Delta I$$ the storage effect
 
 ## The spatial dimension
+- Spatial variation is generally similar to temporal variation re: coexistence
+- Differential responses to the environment are usually met in spatially variable models in two ways:
+  - Relative fitnesses of different species vary in space
+  - Relative variation in dipersal into different habitats
+    - Gives rise to covariance between environment and competition  
+- Buffered population growth is automatic in spatially variable habitats, though strength is variable
+- Tilman's resource ratio hypothesis: the ratio of the rates of supply of two limiting rsources at a locality determines a unique pair of plant species from a given regional pool able to coexist there
+  - Supply rate varies spatially, so different pairs coexist at different placs
+- There are two general kinds of competition-colonization tradeoffs:
+  - A patch supports a local community that is destroyed by random disturbance and recolonized by other patches
+  - A patch supports a single organism whose death opens the patch for recolonization
+  - For coexistence to occur, colonizing ability should be inverse to competitive ability  
 
-
-
+## Predators, herbivores, and pathogens
 
 
 
