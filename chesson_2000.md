@@ -68,11 +68,18 @@
 ### The storage effect
 - Environmental fluctuation may reduce population density and reduce competition, but this does not imply coexistence
 - Stable coexistence rsults from environmental fluctuation due to temporal niches: species use resources at different times
-- The storage effect is the outcome of temporal niches resulting in greater intraspecific than interspecific competition, and has three important ingredients  
+- The storage effect is the outcome of temporal niches resulting in greater intraspecific than interspecific competition
+  - Three important ingredients:     
   (1) Differential responses to the (varying) environment  
   (2) Covariance between environment and competition -- i.e., covariance between effects of environment on per capita growth rat of a population (environmental response) and of competition on the growth rate (competitive response) -- so that when a species is favored by the environment, it experiences intraspecific competition, and vice versa  
   (3) Buffered population growth, which limits the impact of competition when a species is not favored by the environment, e.g., dormancy at unfavorable times of the year
-  
+- Models including the storage effect can give approximate long-term low-density growth rates like: \begin{equation} \bar{r}_i \approx b_i(k_i - \bar{k}) + \frac{b_i (1 - \rho) (-\gamma) \sigma^2}{n - 1}  \end{equation} where $$-\gamma$$ measures buffered population growth, $$\sigma^2$$ is the variance in environmental response, and $$\rho$$ is the correlation between envrionmental responses of different species
+
+### Mechanisms in combination integrated over temporal scales
+- Competition and the physical environent drivethe aforementioned mechanisms affecting coexistence
+- The long-term low-density growth rate can also be expressed as: \begin{equation} \bar{r}_i \approx \bar{r}^{'}_i - \Delta N + \Delta I \end{equation}, with $$\Delta N$$ the relative nonnlinearity of competition and $$\Delta I$$ the storage effect
+
+## The spatial dimension
 
 
 
