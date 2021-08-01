@@ -94,6 +94,31 @@
   - For coexistence to occur, colonizing ability should be inverse to competitive ability  
 
 ## Predators, herbivores, and pathogens
+- Overly simple hypothesis: predators depress populations so that competition is low enough to allow coexistence
+- Without frequency-dependent functional responses, a predator is a single limiting factor
+  - P* rule: species with the highest tolerance of predation will drive other species extinct
+    - Competitive exclusion replaced by apparent competitive exclusion 
+- Janzen-Connell hypothesis: consumers promote coexistence when specialist natural enemies hold down the density of each species independently
+  - By attracting species-specific consumers, individual trees have greater effects on neighboring conspecifics than on neighboring heteropcifics -- a stabilizing mechanism
+- Another stabilizing mechanism is prey-switching (frequency-dependent functional responses)
+  - More simply, predators' preferences can also be stabilizing
+    - e.g., a predator prefers one prey species over another, but the preferred prey species is the better competitor for a limiting resource
 
+## Unstable coexistence
+- In Hubbell's neutral model, coexistence is unstable
+  - There is competition for space, but species are ecologically identical and have equal fitnesss
+  - Many assumptions (e.g., equal fitnesses) have been widely criticized 
+  - However, the question is not really whether an assumption like equal fitnesses is *true*, but whether, at large enough scales, realistic fitness differences matter
 
+## Nonequilibrium coexistence
+- Stable/unstable is analogous to equilibrium/nonequilibrium
+- Chesson believes the nonequilibrium view should be avoided, and the better questions are: -
+  - Is species coexistence stabilized or not? 
+  - Is stabiization fluctuation-dependent or fluctuation-independent? 
+
+## Limiting similarity
+- Requirement of niche differences may also be termed limiting similarity
+  - What are really necessary are stabilizing niche differences
+  - But there can be no precise limiting similarity since in the presence of some stabilizing mechanism, small stabilizing mechanisms can be balanced by small average fitnsses  
+- What is the influence of allee affects or stochastic extinction?
 
